@@ -69,7 +69,7 @@
   margin-top: auto;
 }
 
-.header__footer_paragraph {
+.header__paragraph {
   font-family: "Noto Serif", arial, sans-serif;
   font-size: 20px;
   line-height: 30px;
@@ -81,7 +81,7 @@
   color: #838383;
 }
 
-.header__footer_paragraph:last-of-type {
+.header__paragraph:last-of-type {
   margin-top: auto;
 }
 
