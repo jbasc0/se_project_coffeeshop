@@ -27,8 +27,9 @@
 }
 
 .header__span-accent {
+  color: #2f80ed;
   display: block;
-  font-family: "Noto Serif", arial, sans-serif;
+  font-family: "Noto Serif", "times new roman", serif;
   font-style: italic;
   font-size: 60px;
   line-height: 72px;
@@ -37,7 +38,7 @@
 .header__description {
   display: block;
   max-width: 683px;
-  font-family: "Noto Serif", arial, sans-serif;
+  font-family: "Noto Serif", "times new roman", serif;
   font-size: 20px;
   line-height: 30px;
   margin: 28px 0 0;
@@ -61,7 +62,6 @@
 }
 
 .header__paragraph {
-  font-family: "Noto Serif", arial, sans-serif;
   font-size: 20px;
   line-height: 30px;
   margin: 0;
